@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm minuli de silva</h1>
+<h1 align="center">Hi 👋, I'm Minuli De Silva</h1>
 <h3 align="center">Passionate IT student</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=minulisilva&label=Profile%20views&color=0e75b6&style=flat" alt="minulisilva" /> </p>
