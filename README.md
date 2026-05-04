@@ -10,11 +10,11 @@
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
  </p>
  
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Flutter**, **React Native**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an **IT** Undergraduate at **SLIIT**
 
-- 💬 Ask me about **java**
+- 💬 Ask me about **Web, Android App**
 
 <br>
 
