@@ -14,9 +14,19 @@
 
 - 🧑‍🎓 I’m an **IT** Undergraduate at **SLIIT**
 
+- 👩‍💻 Intern Software Engineer at R Tech Solutions (Pvt) Ltd
+
 - 💬 Ask me about **Web, Android App**
 
 <br>
+
+### 💼 Professional Highlights
+
+* 👩‍💻 **Intern Software Engineer**
+  *R Tech Solutions, Sri Lanka*
+
+  * Built and maintained Web apps using React
+  * Participated in client meetings, requirement analysis & documentation
 
 ---
 <h3 align="left">Connect with me:</h3>
